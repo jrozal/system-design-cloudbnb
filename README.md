@@ -1,7 +1,13 @@
 # Cloudbnb Photos System Design
 
 This service contains inherited front-end legacy code of an Airbnb-like photo grid module. The back-end system was scaled to 85 million database records and redesigned to support a minimum of 100 requests per second on EC2 using a t2.micro instance.
-
+<br>
+<br>
+## System Design Diagram
+![system-design](./system-design.png)
+<br>
+<br>
+## Screenshot
 ![screenshot](./screenshot.png)
 
 ## Technologies Used
